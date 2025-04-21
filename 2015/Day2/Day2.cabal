@@ -68,7 +68,7 @@ executable Day2
 
     -- Other library packages from which modules are imported.
     build-depends:    base >=4.15.1.0,
-                      text
+                      split
 
     -- Directories containing source files.
     hs-source-dirs:   app
